@@ -12,6 +12,10 @@ public class AbcController {
 		}
 		return "bad";
 	}
+	
+	public String failTest() {
+		return "fail";
+	}
 /*
 	public String goA() {
 		Random random = new Random();
