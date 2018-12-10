@@ -2,9 +2,6 @@ package abc;
 
 import java.util.Random;
 
-import javax.faces.bean.ManagedBean;
-
-@ManagedBean
 public class AbcController {
 	
 	public String go() {
